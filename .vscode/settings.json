@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.m": "matlab",
+        "aes.h": "c",
+        "cmac.h": "c",
+        "stdbool.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "corecrt_stdio_config.h": "c",
+        "my_cmac.h": "c",
+        "string_view": "c"
+    }
+}
