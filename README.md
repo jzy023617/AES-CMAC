@@ -1,1 +1,2 @@
 # AES-CMAC-C-
+使用C语言实现AES-256和CMAC算法。
